@@ -1,0 +1,16 @@
+body{
+    background-color:rgb(16, 181, 164);
+}
+h1{
+    color: rgb(14, 5, 4);
+    font-weight: bold;
+}
+p{
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+}
+
+#primeiradiv{
+    border: 10px solid rgb(111, 2, 2);
+}
